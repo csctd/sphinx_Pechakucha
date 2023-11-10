@@ -1,1 +1,1 @@
-# sphinx_Pechakucha
+# sphinx pechakucha
